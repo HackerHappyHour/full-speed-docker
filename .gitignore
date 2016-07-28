@@ -1,2 +1,2 @@
 .vagrant
-secrets.json
+*secrets.yml

@@ -1,0 +1,16 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+Vagrant.configure("2") do |config|
+
+  require 'yaml'
+  secrets = YAML.load_file('secrets.yaml')
+  config.vm.define "leader" do |leader|
+
+	leader.vm.provider :digital-ocean do |provider, override|
+
+	end
+
+  end # end define for "leader" droplet
+
+end
