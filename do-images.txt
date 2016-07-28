@@ -1,0 +1,75 @@
+Description                                        Slug                           ID
+
+CentOS 5.10 x32                                    centos-5-8-x32                 6372425                       
+CentOS 5.10 x64                                    centos-5-8-x64                 6372321                       
+CentOS 5.11 x32                                    centos-5-x32                   18292035                      
+CentOS 5.11 x64                                    centos-5-x64                   18292131                      
+CentOS 6.7 x32                                     centos-6-5-x32                 14782899                      
+CentOS 6.7 x64                                     centos-6-5-x64                 14782952                      
+CentOS 6.8 x32                                     centos-6-x32                   18574249                      
+CentOS 6.8 x64                                     centos-6-x64                   18574245                      
+CentOS 7.2 x64                                                                    17384153                      
+CentOS 7.2 x64                                                                    18325354                      
+CentOS 7.2 x64                                     centos-7-0-x64                 18575051                      
+CoreOS 1068.8.0 (stable)                           coreos-stable                  18540036                      
+CoreOS 1081.5.0 (beta)                             coreos-beta                    18539132                      
+CoreOS 1122.0.0 (alpha)                            coreos-alpha                   18709946                      
+Debian 7.10 x32                                    debian-7-0-x32                 16623283                      
+Debian 7.10 x64                                    debian-7-0-x64                 16623308                      
+Debian 7.11 x32                                                                   18290419                      
+Debian 7.11 x32                                    debian-7-x32                   18557112                      
+Debian 7.11 x64                                    debian-7-x64                   18557139                      
+Debian 8.5 x32                                     debian-8-x32                   18671748                      
+Debian 8.5 x64                                     debian-8-x64                   18671763                      
+Fedora 23 x64                                      fedora-23-x64                  14238961                      
+Fedora 24 x64                                      fedora-24-x64                  18027532                      
+FreeBSD 10.1                                       freebsd-10-1-x64               10144573                      
+FreeBSD 10.2                                       freebsd-10-2-x64               13321858                      
+Ubuntu 12.04.5 x32                                 ubuntu-12-04-x32               18559194                      
+Ubuntu 12.04.5 x64                                 ubuntu-12-04-x64               18559220                      
+Ubuntu 14.04.4 x32                                 ubuntu-14-04-x32               18593030                      
+Ubuntu 14.04.4 x64                                 ubuntu-14-04-x64               18593027                      
+Ubuntu 15.10 x32                                                                  15621817                      
+Ubuntu 16.04.1 x32                                 ubuntu-16-04-x32               18573587                      
+Ubuntu 16.04.1 x64                                 ubuntu-16-04-x64               18572320                      
+Ubuntu 2014w30_July26_2332cst                                                     5248115                       
+Ubuntu Cassandra on 14.04                          cassandra                      16376426                      
+Ubuntu Discourse on 14.04                          discourse                      16753867                      
+Ubuntu Django on 14.04                             django                         16089776                      
+Ubuntu Docker 1.11.2 on 14.04                      docker                         18008724                      
+Ubuntu Dokku 0.6.5 on 14.04                        dokku                          18475131                      
+Ubuntu Drone 0.4 on 14.04                          drone                          17294098                      
+Ubuntu Drupal 8.1.3 on 14.04                       drupal                         17999979                      
+Ubuntu ELK Logging Stack on 14.04                  elk                            15942020                      
+Ubuntu Elixir on 14.04                             elixir                         13764801                      
+Ubuntu Ghost 0.8.0 on 14.04                        ghost                          17493934                      
+Ubuntu GitLab 8.9.4 CE on 14.04                    gitlab                         18285322                      
+Ubuntu Horizon w/ RethinkDB on 14.04               horizon                        17815742                      
+Ubuntu Joomla! 3.6.0 on 14.04                      joomla                         18535725                      
+Ubuntu LAMP on 14.04                               lamp                           18535710                      
+Ubuntu LEMP on 14.04                               lemp                           18473655                      
+Ubuntu MEAN on 14.04                               mean                           17061879                      
+Ubuntu Magento 2.0.7 CE on 14.04                   magento                        18536313                      
+Ubuntu MediaWiki on 14.04                          mediawiki                      18398383                      
+Ubuntu MongoDB 3.2.7 on 14.04                      mongodb                        18001523                      
+Ubuntu Mumble Server (murmur) on 14.04             mumble                         18397571                      
+Ubuntu Node 4.4.5 on 14.04                         node                           18008624                      
+Ubuntu PHPMyAdmin on 14.04                         phpmyadmin                     18398278                      
+Ubuntu Redis 3.2.1 on 14.04                        redis                          17999703                      
+Ubuntu Redmine on 14.04                            redmine                        12438838                      
+Ubuntu Ruby on Rails on 14.04 (Postgres, Nginx, Unicorn) ruby-on-rails                  16089764                      
+Ubuntu WordPress on 14.04                          wordpress                      18398713                      
+Ubuntu cassandra1                                                                 17551182                      
+Ubuntu closeout                                                                   16170653                      
+Ubuntu cloudbench-hibench-on-1404.030216-1                                        16071743                      
+Ubuntu cloudbench-nullworkload-on-1404.030316-6                                   16082940                      
+Ubuntu cloudbench-ycsb-on-1404.030216-1                                           16071652                      
+Ubuntu dec20_2014_pre-resize                                                      9232661                       
+Ubuntu hadoop1                                                                    17550956                      
+Ubuntu ownCloud 9.0.3 on 14.04                     owncloud                       18535708                      
+Ubuntu preboost-Mar262014                                                         2851158                       
+Ubuntu presslsnapshot-march212014                                                 2746824                       
+Ubuntu presslsnapshot-march212014                                                 2746880                       
+Ubuntu sunMay4_2014                                                               3507273                       
+Ubuntu w10d65snap01                                                               2552649                       
+Ubuntu w11d69snap01                                                               2611452                       
